@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Thibaud-Br
-- 👀 I’m interested in front-end web development and hope to become one.
-- 🌱 I’m currently learning HTML/CSS and planning to learn JS very soon.
+Hi 
