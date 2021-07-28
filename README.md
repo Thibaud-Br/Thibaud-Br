@@ -1,4 +1,6 @@
-<h1 align=center>Hello fellow humans ! 🤖</h1>
+<h1 align=center>Hello fellow humans ! 🤖</h1>  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=thibaudbrault)](https://github.com/ryo-ma/github-profile-trophy)  
 
 My name is Thibaud and I'm a Nantes based front-end developer.  
 I recently fell in love with front-end development and I'm currently spending all my time learning new languages and creating beautiful websites.  
@@ -19,4 +21,4 @@ My goal is to become a professional front-end developer and turn my passion into
 <a href="https://thibaud-brault.com/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
 <a href="https://thibaud-brault.com/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thibaud-Br)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibaudbrault)](https://github.com/anuraghazra/github-readme-stats)
