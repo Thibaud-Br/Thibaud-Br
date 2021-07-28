@@ -13,4 +13,4 @@ My goal is to become a professional front-end developer and turn my passion into
 - VSCode  
 - NPM
 ## Contact  
-<img src="linkeding.svg" alt="linkedin profile" width="200"/>
+<img src="linkeding.svg" alt="linkedin profile" width="20"/>
