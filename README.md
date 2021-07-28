@@ -14,7 +14,9 @@ My goal is to become a professional front-end developer and turn my passion into
 ## Tools that I use 🧰  
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 - ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+- ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)  
 ## Contact  
+<a href="https://thibaud-brault.com/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
 <a href="https://thibaud-brault.com/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>  
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thibaud-Br)](https://github.com/anuraghazra/github-readme-stats)
