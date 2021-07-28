@@ -2,7 +2,9 @@
 
 My name is Thibaud and I'm a Nantes based front-end developer.  
 I recently fell in love with front-end development and I'm currently spending all my time learning new languages and creating beautiful websites.  
-My goal is to become a professional front-end developer and turn my passion into my job.
+My goal is to become a professional front-end developer and turn my passion into my job.  
+💻 I'm currently working on [Sun Scale]()
+🌱 I'm curently learning JS and React
 ## Languages that I know / am learning 📖  
 - HTML  
 - CSS / Sass  
