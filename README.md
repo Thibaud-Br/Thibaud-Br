@@ -13,4 +13,4 @@ My goal is to become a professional front-end developer and turn my passion into
 - VSCode  
 - NPM
 ## Contact  
-lorem
+[![Linkedin profile](linkedin.svg)](https://www.linkedin.com/in/thibaud-brault/)
