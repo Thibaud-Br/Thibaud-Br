@@ -3,10 +3,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=thibaudbrault&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
 
 My name is Thibaud and I'm a Nantes based front-end developer.  
-I recently fell in love with front-end development and I'm currently spending all my time learning new languages and creating beautiful websites (pls help me I can't stop).  
+I recently fell in love with front-end development and I'm currently spending all my free time having fun (well sometimes I want to throw my computer through my window) working on projects that interests me.  
 My goal is to become a professional front-end developer and turn my passion into my job.  
 
-🔭 I'm currently working on [Sun Scale](https://github.com/Thibaud-Br/Sun-scale)  
+🔭 I'm currently working on a Pokedex with data from PokeApi   
 🌱 I'm curently learning JS and React
 ## Languages that I know / am learning 📖  
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
