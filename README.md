@@ -6,7 +6,7 @@ My name is Thibaud and I'm a Nantes based front-end developer.
 I recently fell in love with front-end development and I'm currently spending all my free time having fun (well sometimes I want to throw my computer through my window) working on projects that interests me.  
 My goal is to become a professional front-end developer and turn my passion into my job.  
 
-🔭 I'm currently working on a Pokedex with data from PokeApi   
+🔭 I'm currently working on [PokeInfo](https://github.com/thibaudbrault/poke-info)  
 🌱 I'm curently learning JS and React
 ## Languages that I know / am learning 📖  
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
