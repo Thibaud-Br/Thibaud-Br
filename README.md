@@ -9,8 +9,8 @@
 I recently fell in love with front-end development and I'm currently spending all my free time having fun (well sometimes I want to throw my computer through my window) working on projects that interests me.  
 My goal is to become a professional front-end developer and turn my passion into my job.  
 
-🔭 Working on [PokeInfo](https://github.com/thibaudbrault/PokeInfo)  
-🌱 Learning JS and React  
+- 🔭 Working on [PokeInfo](https://github.com/thibaudbrault/PokeInfo)  
+- 🌱 Learning JS and React  
 
 ## ⚡ Technologies  
 
@@ -28,8 +28,8 @@ My goal is to become a professional front-end developer and turn my passion into
 
 ## Contact  
 
-<a href="https://thibaud-brault.com/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>  
-<a href="https://thibaud-brault.com/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>  
+- <a href="https://thibaud-brault.com/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>  
+- <a href="https://thibaud-brault.com/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>  
   
 ## Stats
 
