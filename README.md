@@ -28,8 +28,8 @@ My goal is to become a professional front-end developer and turn my passion into
 
 ## Contact  
 
-- <a href="https://thibaud-brault.com/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>  
-- <a href="https://thibaud-brault.com/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>  
+- <a href="https://thibaudbrault.dev/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>  
+- <a href="https://fr.linkedin.com/in/thibaud-brault" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>  
   
 ## Stats
 
