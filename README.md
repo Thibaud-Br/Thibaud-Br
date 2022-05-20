@@ -9,7 +9,7 @@
 I recently fell in love with front-end development and I'm currently spending all my free time having fun (well sometimes I want to throw my computer through my window) working on projects that interests me.  
 My goal is to become a professional front-end developer and turn my passion into my job.  
 
-- 🔭 Working on [PokeInfo](https://github.com/thibaudbrault/PokeInfo)  
+- 🔭 Working on [PokéRef](https://github.com/thibaudbrault/PokeRef)  
 - 🌱 Learning JS and React  
 
 ## ⚡ Technologies  
