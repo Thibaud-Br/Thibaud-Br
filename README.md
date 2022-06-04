@@ -3,7 +3,7 @@
 </div>
   
 
-<h1 align="center"><strong>Welcome </strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center"><strong>Welcome </strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <h3 align="center"><samp>I am Thibaud, a 23 yo French dev 🇫🇷</samp></h3>  
 
