@@ -21,7 +21,9 @@
 
 <br />
 
-![Presentation](pres.svg) 
+<div align="center">
+  <img src="presentation.svg" alt="Presentation" />
+</div>
 
 <h3><strong>⚡ My stack</strong></h3>  
 
