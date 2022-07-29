@@ -1,11 +1,9 @@
 <div align="center">  
-  <img src="https://media.giphy.com/media/ZchkBcB4zKiuG4Y22I/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/ZchkBcB4zKiuG4Y22I/giphy.gif" width="150" />
 </div>
   
 
 <h1 align="center"><strong>Welcome </strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-
-<h3 align="center"><samp>I am Thibaud, a 23 yo French dev 🇫🇷</samp></h3>  
 
 <div align="center">
   
@@ -23,10 +21,7 @@
 
 <br />
 
-![Presentation](pres.svg)
-
-- 🔭 Currently working on [PokéRef](https://github.com/thibaudbrault/PokeRef)  
-- 🌱 Learning : JS and React  
+![Presentation](pres.svg) 
 
 <h3><strong>⚡ My stack</strong></h3>  
 
