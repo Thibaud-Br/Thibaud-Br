@@ -23,6 +23,8 @@
 
 <br />
 
+![Presentation](pres.svg)
+
 - 🔭 Currently working on [PokéRef](https://github.com/thibaudbrault/PokeRef)  
 - 🌱 Learning : JS and React  
 
