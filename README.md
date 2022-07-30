@@ -22,7 +22,7 @@
 <br />
 
 <div align="center">
-  <img src="presentation.svg" alt="Presentation" />
+  <img src="pres.svg" alt="Presentation" />
 </div>
 
 <h3><strong>⚡ My stack</strong></h3>  
