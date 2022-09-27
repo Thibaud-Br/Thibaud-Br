@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/ZchkBcB4zKiuG4Y22I/giphy.gif" width="150" />
 </div>
   
-
 <h1 align="center"><strong>Welcome </strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <div align="center">
@@ -21,9 +20,16 @@
 
 <br />
 
-<div align="center">
-  <img src="pres.svg" alt="Presentation" />
-</div>
+```javascript
+const thibaud = {
+  name: 'Thibaud Brault',
+  location: 'Nantes, France',
+  education: ['bachelor in law', 'front-end dev'],
+  code: ['React', 'Next', 'Styled-Components'],
+  personalFavourite: 'Styled-Components',
+  futureTech: ['MySql', 'Express', 'Typescript'],
+}
+```
 
 <h3><strong>⚡ My stack</strong></h3>  
 
