@@ -25,9 +25,10 @@ const thibaud = {
   name: 'Thibaud Brault',
   location: 'Nantes, France',
   education: ['bachelor in law', 'front-end dev'],
-  code: ['React', 'Next', 'Styled-Components'],
-  personalFavourite: 'Styled-Components',
-  futureTech: ['MySql', 'Express', 'Typescript'],
+  front: ['React', 'Next', 'Typescript', 'Styled-Components'],
+  back: ['MySql', 'Express'],
+  personalFavourite: ['Styled-Components', 'Next']
+  futureTech: 'Jest',
 }
 ```
 
