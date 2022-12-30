@@ -6,9 +6,6 @@
 
 <div align="center">
   
-  <a href="mailto:thibaud.brault@gmail.com">  
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://thibaudbrault.dev/" target="_blank">  
     <img src="https://img.shields.io/badge/{TB}-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=#FF7139" />
   </a>
