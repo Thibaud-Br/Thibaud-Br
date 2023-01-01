@@ -60,8 +60,6 @@ const profile = {
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thibaudbrault&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thibaudbrault&theme=dark)](https://git.io/streak-stats)  
-  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibaudbrault&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
