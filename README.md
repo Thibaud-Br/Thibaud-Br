@@ -20,7 +20,7 @@ const profile = {
   education: ['bachelor in law', 'front-end dev'],
   front: ['React', 'Next', 'Typescript', 'Styled-Components'],
   back: ['MySql', 'Express'],
-  personalFavourite: ['Styled-Components', 'Next']
+  personalFavourite: ['Styled-Components', 'Next'],
   futureTech: 'Jest',
 }
 ```
