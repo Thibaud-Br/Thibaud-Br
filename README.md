@@ -17,11 +17,10 @@
 const profile = {
   name: 'Thibaud Brault',
   location: 'Nantes, France',
-  education: ['bachelor in law', 'front-end dev'],
+  role: 'front-end dev',
   front: ['React', 'Next', 'Typescript', 'Styled-Components'],
   back: ['MySql', 'Express'],
-  personalFavourite: ['Styled-Components', 'Next'],
-  futureTech: 'Jest',
+  test: ['Playwright']
 }
 ```
 
