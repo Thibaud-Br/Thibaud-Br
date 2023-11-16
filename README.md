@@ -3,7 +3,7 @@
 <div align="center">
   
   <a href="https://thibaudbrault.dev/" target="_blank">  
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=astro&logoColor=#FF6600" />
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=astro&logoColor=orange" />
   </a>
   <a href="https://fr.linkedin.com/in/thibaud-brault" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
