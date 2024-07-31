@@ -33,7 +33,7 @@ const profile = {
  
 <h3>Tools</h3>
 
-![My Skills](https://skillicons.dev/icons?i=githubactions,git,cloudflare)
+![My Skills](https://skillicons.dev/icons?i=githubactions,git,cloudflare,vercel)
 
 <h2><strong>🔥 Stats</strong></h2>
 
